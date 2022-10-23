@@ -7,8 +7,9 @@ function Header(){
 return <div className="contenedor-cabecera">
             <img className="logo" src={Image}/>
         <h1 className="nombre">
-            Pick-Me-Up
+            Pick-Me-Up xd 
         </h1>
+      
         <h1 className="user">
             user
         </h1>
